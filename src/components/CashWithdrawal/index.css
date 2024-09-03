@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  background-color: #150b3e;
+  border-radius: 10px;
+}
+.heading-container {
+  display: flex;
+}
+.sub-container {
+  display: flex;
+  justify-content: space-between;
+}
+.user-logo {
+  color: #7c3aed;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  background-color: #c7d2fe;
+  padding: 30px;
+  margin-right: 10px;
+  border-radius: 60px;
+}
+.user-name {
+  color: #d4d2db;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Roboto';
+}
+.description {
+  color: #585076;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.money-container {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #d4d2db;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.tag-line {
+  color: #585076;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
